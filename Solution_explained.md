@@ -29,7 +29,7 @@ Successfully created the iot_sensors_data and iot_alerts topics. The client was 
 
 Shows the generated and sent sensor data to the iot_sensors_data topic.
 
-![Screenshot (producer messages)](./screenshots/task_01.png)
+![Screenshot (producer messages)](./screenshots/task_02.png)
 
 ## 3. Spark Kafka (task_03.py)
 
