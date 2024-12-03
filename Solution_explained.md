@@ -13,7 +13,7 @@
 
 Successfully created the iot_sensors_data and iot_alerts topics. The client was closed without errors.
 
-![Screenshot (topics created)](./screenshots/task_01.png):
+![Screenshot (topics created)](./screenshots/task_01.png)
 
 ## 2. Producer (task_02.py)
 
